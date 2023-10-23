@@ -15,6 +15,3 @@
 
 [Урок 14](https://ValeriyZaytcev.github.io/ "Начало работы на GitHub") - Начало работы на GitHub
 
-
-
-https://github.com/ValeriyZaytcev/ValeriyZaytcev.github.io
